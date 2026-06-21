@@ -1,0 +1,16 @@
+background
+Sparse woodland
+Low vegetation
+Woodland
+Playground
+Low building
+General building
+Unpaved Road
+Bare Land
+Construction land
+Parking Lot
+River
+Impervious surfaces
+Paved Road
+High building
+Water

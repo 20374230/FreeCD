@@ -1,0 +1,6 @@
+background
+Artificial surfaces
+Agricultural areas
+Forests
+Wetlands
+Water

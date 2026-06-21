@@ -1,0 +1,9 @@
+background
+water
+grass
+building
+green house
+road
+bridge
+bare land
+woodland

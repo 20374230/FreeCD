@@ -1,0 +1,5 @@
+background
+cropland
+Road
+forest or grassland
+building

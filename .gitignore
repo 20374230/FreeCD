@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.log
+nohup.out
+.vs/
+.vscode/
+out/
+output/
+work_dirs/
+
+# Model weights (download separately)
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+*.bin
